@@ -2,7 +2,7 @@
 title: Chill Club
 email: Meth@Chill.com
 description: Cocaine
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/Chill-Club-Page/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username: master
